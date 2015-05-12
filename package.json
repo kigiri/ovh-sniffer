@@ -1,0 +1,15 @@
+{
+  "name": "ovh-sniffer",
+  "version": "1.0.0",
+  "description": "simple tool get sms notification on new ovh offers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cdenis",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.55.0"
+  }
+}
