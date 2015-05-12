@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kigiri/ovh-sniffer.git"
   }
 }
